@@ -235,8 +235,10 @@ document.addEventListener('keydown', e => {
   nextDirection = newDir;
 });
 
-startBtn.addEventListener('click', startGame);
+startBtn.addEventListener('click', () => { startGame(); canvas.focus(); });
 pauseBtn.addEventListener('click', pauseGame);
-restartBtn.addEventListener('click', restartGame);
+restartBtn.addEventListener('click', () => { restartGame(); canvas.focus(); });
+canvas.addEventListener('click', () => canvas.focus());
 
 init();
+canvas.focus();
