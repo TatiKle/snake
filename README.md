@@ -19,3 +19,8 @@
 ## Деплой
 
 https://snake-ecru-kappa.vercel.app/
+
+## Демонстрация
+
+https://github.com/user-attachments/assets/3082803f-cf25-46d4-bf6f-36cff26e6b2f
+
