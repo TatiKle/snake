@@ -1,23 +1,21 @@
-Игра «Змейка», реализованная на HTML, CSS и JavaScript. 
+[![Maintainability](https://qlty.sh/gh/TatiKle/projects/snake/maintainability.svg)](https://qlty.sh/gh/TatiKle/projects/snake)
 
+# Змейка 🐍
 
-Игрок управляет змейкой, которая растёт после поедания еды. Цель - набрать как можно больше очков, не врезавшись в стену или в себя.
+Классическая игра «Змейка», реализованная на HTML, CSS и JavaScript.
+Игрок управляет змейкой, которая растёт после поедания еды. Цель — набрать как можно больше очков, не врезавшись в стену или в себя.
 
-Стек:
+## Стек
 
- - Frontend: HTML5, CSS3, JavaScript (Canvas API)
+- Frontend: HTML5, CSS3, JavaScript (Canvas API)
+- Backend: нет
+- База данных: нет (localStorage для хранения рекорда)
 
- - Backend: нет 
+## Как запустить локально
 
- - База данных: нет (localStorage для хранения рекорда) 
-
-
-Как запустить локально:
-
-1. Скачать файлы репозитория 
-
+1. Скачать файлы репозитория
 2. Открыть `index.html` в браузере
 
-Деплой:
+## Деплой
 
 https://snake-ecru-kappa.vercel.app/
