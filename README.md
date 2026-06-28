@@ -17,3 +17,7 @@
 1. Скачать файлы репозитория 
 
 2. Открыть `index.html` в браузере
+
+Деплой:
+
+https://snake-ecru-kappa.vercel.app/
